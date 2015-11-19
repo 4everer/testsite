@@ -1,7 +1,7 @@
 ---
 
 port: 4000
-host: 0.0.0.0
+host: 127.0.0.1
 safe: false
 
 
@@ -15,9 +15,9 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+title:       "Test page"
+keywords:    "blog, single page"
+description: "test page on signle page)"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
